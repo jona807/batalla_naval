@@ -1,4 +1,4 @@
-"batalla naval python"
+"""batalla naval python"""
 
 import random
 
